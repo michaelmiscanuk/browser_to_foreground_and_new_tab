@@ -10,3 +10,5 @@ This small application (which can be used in mouse button) will find your browse
 Antivirus:
 Since program is doing some windows manipulation (like bring browser into foreground, it might be marked as a virus). 
 You might want to add folder with program to exceptions in your antivirus. 
+
+Use: Double click on new_tab_first_browser.exe to open latest Brave Window. Double click on new_tab_second_browser.exe to bring next to latest Browser to the foreground and open new tab in it. 
