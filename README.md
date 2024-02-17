@@ -1,4 +1,6 @@
-# browser_to_foreground_and_new_tab
+# Bring Browser (Brave) to Foreground and Open New Tab (To start search Immediately)
+## browser_to_foreground_and_new_tab
+
 Bring your browser (now workds for BRAVE) to the foreground and open new tab in it.
 
 Imagine, you have many different windows opened, and you use browser often to search for something on internet, you dont want to always search where is your browser window located, then after you found it, click new tab button and start search (via top panel) or even open some search web, like google and then start search. This is quite a big steps if you use search often.
